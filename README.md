@@ -20,3 +20,4 @@ The DataBridge connects edge devices in manufacturing with the Snowflake Cloud. 
 - Stored keys are **password-protected**
 
 ## Documentation
+[User Manual – DataBridge (V002)](UserManual_DataBridge_V002.pdf)
