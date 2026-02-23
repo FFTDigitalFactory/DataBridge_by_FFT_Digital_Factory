@@ -6,8 +6,9 @@ The FFT_DataBridge connects edge devices in manufacturing with the Snowflake Clo
 
 - Communicates with the locally installed FFT_DataService to retrieve standardized access to both real-time and historical data from IIH
   
-- Supports variable-level filtering and configuration for writing to multiple tables and automatically fetches available variables from the FFT_DataService
--   
+- Supports variable-level filtering and configuration for writing to multiple tables and automatically
+  fetches available variables from the FFT_DataService
+  
 - Supports retrieval of historical data
   
 - Freely configurable via IEM schema configurations, with an additional TOML-based configuration mode to extend advanced settings
