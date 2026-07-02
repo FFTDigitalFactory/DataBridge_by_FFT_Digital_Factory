@@ -1,6 +1,6 @@
 ## Overview
 
-The FFT DataBridge connects edge devices in manufacturing with the Snowflake Cloud. It is specifically tailored for Siemens Industrial Edge and runs locally on the edge device. The app enables secure, configurable, and consistent transmission of production data to the cloud for analysis.
+The FFT DataBridge connects edge devices in manufacturing with the Snowflake or Databricks Cloud. It is specifically tailored for Siemens Industrial Edge and runs locally on the edge device. The app enables secure, configurable, and consistent transmission of production data to the cloud for analysis.
 
 ## Functionality
 
@@ -17,11 +17,9 @@ The FFT DataBridge connects edge devices in manufacturing with the Snowflake Clo
 
 The FFT DataBridge is built with security and reliability in mind:
 
-- Southbound connection to Snowflake
-  
-- End-to-end TLS encryption
-  
-- Asymmetric authentication using encrypted key files (public/private key pair)
+- Southbound connection to Snowflake or Databricks
+- Asymmetric authentication using encrypted key files (public/private key pair) for Snowflake
+- O_Auth secret key authentication for Databricks
 
 ## Documentation
 [User Manual – FFT DataBridge](UserManual_DataBridge_V003.pdf)
