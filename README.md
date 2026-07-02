@@ -24,4 +24,5 @@ The FFT DataBridge is built with security and reliability in mind:
 - Asymmetric authentication using encrypted key files (public/private key pair)
 
 ## Documentation
-[User Manual – FFT DataBridge](UserManual_DataBridge_V002.pdf)
+[User Manual – FFT DataBridge](UserManual_DataBridge_V003.pdf)
+
